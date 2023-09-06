@@ -80,7 +80,7 @@ body {
 
 .serchinput.active {
     height: auto;
-    width: 250px;
+    width: 220px;
     padding: 6px 10px;
     border: 1px solid var(--green-color);
     border-right: 0;
